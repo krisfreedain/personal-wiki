@@ -1,25 +1,19 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: Home
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Hello. I'm Kris Freedain
 
-This is a starter template for a docsy jekyll theme.
-
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+![assets/img/krisfreedain.jpg](assets/img/krisfreedain.jpg){: style="float:right"}
 
 ## Purpose
 
-GitHub pages uses Jekyll natively, so when I make documentation, I typically
-look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
-and allow for users to easily contribute, and build automatically just by
-way of pushing to a master branch (or general GitHub pages).
-I found Docsy, a beautiful Hugo template, but it requires hugo with GoLang
-which doesn't render natively on GitHub pages. For this reason, I've spent
-some time creating a custom Jekyll template that is (almost) as beautiful,
-and includes all the features that I might want.
+GitHub pages uses Jekyll natively, so when I make documentation, I typically look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
+and allow for users to easily contribute, and build automatically just by way of pushing to a master branch (or general GitHub pages).
+I found Docsy, a beautiful Hugo template, but it requires hugo with GoLang which doesn't render natively on GitHub pages. For this reason, I've spent
+some time creating a custom Jekyll template that is (almost) as beautiful, and includes all the features that I might want.
 
 ## Features
 
